@@ -4,7 +4,7 @@ overview of decent bitcoin resources in many languages
 
 
 | language | intro | good overview site | [radio feed](https://btcrad.io/) | beginner books | Bitcoin Standard | good beginner podcast | good twitter feeds |
-|----------|--------------------|--------------------------------- | -------------- | ---------------- | --------------------- | ------------------ |
+|----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | --------------------- | ------------------ |
 | English  | https://bitcoin-intro.com/ | https://bitcoin-only.com/ | https://btcrad.io/en/     |                |                  |                       |                    |
 | deutsch German  | https://bitcoin-intro.com/de/  |  https://btcrad.io/de/
 | espanol Spanish | https://bitcoin-intro.com/es/  | https://btcrad.io/es/
