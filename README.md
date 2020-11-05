@@ -1,4 +1,4 @@
-## h17n.com - hyperbitcoinization
+## h17n.com - i18n resources for hyperbitcoinization
 
 overview of decent bitcoin resources in many languages
 
@@ -15,6 +15,22 @@ overview of decent bitcoin resources in many languages
 | Farsi  | [bitcoind.me](https://bitcoind.me/) |
 | Arabic | [bitcoin-intro](https://bitcoin-intro.com/ar/) | 
 
+## use case
+
+You want to lead a friend or family into the rabbit hole but they are not comfortable with English, maybe they don't even speak English.
+Where do you send them?
+We're setting up this page with quality bitcoin only links in many languages to help with this.
+
+Plus you can help [improve this page](https://github.com/h17n/h17n.com/edit/main/README.md).
+
+## steps
+
+first:
+- quick overview for links to send to people who are not very comfortable with English
+
+later:
+- add actual i18n and l10n resources related to bitcoin
+- cyber hornet translation team
 
 ### inspiration
 
