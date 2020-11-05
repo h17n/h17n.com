@@ -17,6 +17,8 @@ overview of decent bitcoin resources in many languages
 
 ### where to buy
 
+"[Friends don't let friends buy shitcoins](https://twitter.com/bitcoin_al/status/1308057587053715456)"
+
 | countries           | exchange / language                               |  easy DCA  | payment methods    |
 | ------------------- | -----------|  ------------------------------------- | -----------| ------------------ |
 | EU, CH              | [StackinSat francais](https://stackinsat.com/)  | yes        |
