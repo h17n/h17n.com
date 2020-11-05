@@ -10,9 +10,9 @@ We're setting up this page with quality bitcoin only links in many languages to 
 | language | intro | overview | [radio feed](https://btcrad.io/) | books | beginner podcast | youtube |
 |----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | ----- |
 | English  | [bitcoin-intro.com](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad.io](https://btcrad.io/en)     |                |                  |                       
-| deutsch German  |                                                 |   | [BTCrad.io](https://btcrad.io/de)  |  [aprycot](https://aprycot.media/shop/) |  [Bitcoin verstehen](https://anchor.fm/bitcoinverstehenpodcast)
+| deutsch German  |                                                 |   | [BTCrad.io](https://btcrad.io/de)  |  [aprycot](https://aprycot.media/shop/) |  [Bitcoin verstehen](https://anchor.fm/bitcoinverstehenpodcast) 
 | espanol Spanish | [bitcoin-intro.com](https://bitcoin-intro.com/es/)  |   | [BTCrad.io](https://btcrad.io/es)  |  |  |  [Satoshi en Venezuela](https://www.youtube.com/c/SatoshienVenezuela) 
-| francais French | [decouvrebitcoin.com](https://decouvrebitcoin.com/) |   | [BTCrad.io](https://btcrad.io/fr)
+| francais French | [decouvrebitcoin.com](https://decouvrebitcoin.com/) |   | [BTCrad.io](https://btcrad.io/fr) |   |  | [Découvre Bitcoin](https://www.youtube.com/channel/UCANjJ55UmYmoXm_SW--psXQ)
 | italiano Italian | [bitcoin-intro.com](https://bitcoin-intro.com/it/) |
 | Nederlands Dutch | [bitcoin-intro.com](https://bitcoin-intro.com/nl/) |   | [BTCrad.io](https://btcrad.io/nl) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/) | [Beginnen met Bitcoin](https://www.youtube.com/channel/UCP0QPMEylGbthgRSvDkMy8Q/)
 | portugues Portuguese | [bitcoin-intro.com](bitcoin-intro) |
