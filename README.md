@@ -24,15 +24,16 @@ We're setting up this page with quality bitcoin only links in many languages to 
 
 "[Friends don't let friends buy shitcoins](https://twitter.com/bitcoin_al/status/1308057587053715456)"
 
+
 | countries           | exchange / language                               |  easy DCA  | payment methods    |
 | ------------------- | -----------|  ------------------------------------- | -----------| ------------------ |
-| EU, CH              | [StackinSat francais](https://stackinsat.com/)  | yes        |
+| EU, CH              | [StackinSat francais](https://stackinsat.com/)  | yes        |                   |
 | NL, BE              | [Bitonic, Nederlands](https://bitonic.nl/nl/), [English](https://bitonic.nl/en/)     | no        | iDeal, Bancontact (currently no SEPA!) | 
 | EU                  | [BL3P English](https://bl3p.eu/)      | no        | SEPA | 
 | CH, EU              | [Relai, francais](https://relai.ch/fr/) [deutsch](https://relai.ch/de/) [italiano](https://relai.ch/it/) [English](https://relai.ch/) |
 | United States       | [Swan Bitcoin, English](https://www.swanbitcoin.com/)                             | yes       |
 | United States       | [River Financial, English](https://river.com/) | yes       |
-| Australia           | [Amber, English](https://amber.app/)            | yes       |
+| Australia           | [Amber, English](https://amber.app/)      | yes       |
 | Canada              | [Bull Bitcoin, English](https://bullbitcoin.com/) | 
 | Nigeria             | [Bitnob, English](https://bitnob.com/) | yes
 
