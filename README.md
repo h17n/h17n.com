@@ -14,7 +14,7 @@ We're setting up this page with quality bitcoin only links in many languages to 
 | espanol Spanish | [bitcoin-intro.com](https://bitcoin-intro.com/es/)  |   | [BTCrad.io](https://btcrad.io/es)  |  |  |  [Satoshi en Venezuela](https://www.youtube.com/c/SatoshienVenezuela)
 | francais French | [decouvrebitcoin.com](https://decouvrebitcoin.com/) |   | [BTCrad.io](https://btcrad.io/fr)
 | italiano Italian | [bitcoin-intro.com](https://bitcoin-intro.com/it/) |
-| Nederlands Dutch | [bitcoin-intro.com](https://bitcoin-intro.com/nl/) |   | [BTCrad.io](https://btcrad.io/nl) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/)
+| Nederlands Dutch | [bitcoin-intro.com](https://bitcoin-intro.com/nl/) |   | [BTCrad.io](https://btcrad.io/nl) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/) | [Beginnen met Bitcoin](https://www.youtube.com/channel/UCP0QPMEylGbthgRSvDkMy8Q/)
 | portugues Portuguese | [bitcoin-intro.com](bitcoin-intro) |
 | suomi Finnish | [bitcoin-intro.com](https://bitcoin-intro.com/fi/) |
 | فارسی Farsi  | [bitcoind.me](https://bitcoind.me/) |    |  |   |  [Ziya Sadr](https://www.youtube.com/channel/UChJDoitU8BCdhxeAeFOQIHg/)
