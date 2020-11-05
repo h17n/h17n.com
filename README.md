@@ -16,7 +16,7 @@ We're setting up this page with quality bitcoin only links in many languages to 
 | italiano Italian | [bitcoin-intro.com](https://bitcoin-intro.com/it/) |   |      |    |   |  |  [Futuro](https://medium.com/@ryandelongpre/il-futuro-dei-soldi-bitcoin-dfddd5ef7308)
 | Nederlands Dutch | [bitcoin-intro.com](https://bitcoin-intro.com/nl/) |   | [BTCrad.io](https://btcrad.io/nl) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/) | [Beginnen met Bitcoin](https://www.youtube.com/channel/UCP0QPMEylGbthgRSvDkMy8Q/) | [Bullish](https://medium.com/@vijayb_24615/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1)
 | portugues Portuguese | [bitcoin-intro.com](bitcoin-intro) | | | | | | [otimista](https://baraodobitcoin.com/o-cen%C3%A1rio-otimista-para-o-bitcoin-parte-1-de-4-785218913e0c)
-| suomi Finnish | [bitcoin-intro.com](https://bitcoin-intro.com/fi/) |   |  |   [konsensus.network](https://konsensus.network/fi/)
+| suomi Finnish | [bitcoin-intro.com](https://bitcoin-intro.com/fi/) |   |  |   [konsensus.network](https://konsensus.network/fi/) |   |  | [Bullish](https://medium.com/@thlbr/bitcoinin-valoisa-tulevaisuus-osa-1-4a93ff843229)
 | فارسی Farsi  | [bitcoind.me](https://bitcoind.me/) |    |  |  |  |  [Ziya Sadr](https://www.youtube.com/channel/UChJDoitU8BCdhxeAeFOQIHg/)
 | العربية Arabic | [bitcoin-intro.com](https://bitcoin-intro.com/ar/) | 
 
