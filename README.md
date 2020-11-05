@@ -1,6 +1,11 @@
 ## h17n.com - i18n resources for hyperbitcoinization
 
-overview of decent bitcoin resources in many languages
+### Overview of decent bitcoin resources in many languages
+
+You want to lead a friend or family into the rabbit hole but they are not comfortable with English, maybe they don't even speak English.
+Where do you send them?
+We're setting up this page with quality bitcoin only links in many languages to help with this.
+
 
 | language | intro | overview | [radio feed](https://btcrad.io/) | books | beginner podcast | 
 |----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | 
@@ -31,17 +36,14 @@ overview of decent bitcoin resources in many languages
 | Canada              | [Bull Bitcoin, English](https://bullbitcoin.com/) | 
 | Nigeria             | [Bitnob, English](https://bitnob.com/) | yes
 
-
 None of these are selling shitcoin, with a preference to simplicity and DCA.
 
 
-## use case
+## add more
 
-You want to lead a friend or family into the rabbit hole but they are not comfortable with English, maybe they don't even speak English.
-Where do you send them?
-We're setting up this page with quality bitcoin only links in many languages to help with this.
+Only bitcoin only links.
 
-Plus you can help [improve this page](https://github.com/h17n/h17n.com/edit/main/README.md).
+You can help [improve this page](https://github.com/h17n/h17n.com/edit/main/README.md).
 
 ## steps
 
