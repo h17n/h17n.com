@@ -9,7 +9,7 @@ overview of decent bitcoin resources in many languages
 | espanol Spanish | [bitcoin-intro](https://bitcoin-intro.com/es/)  |   | [BTCrad](https://btcrad.io/es/)
 | francais French |                                                 |   | [BTCrad](https://btcrad.io/fr/)
 | italiano Italian | [bitcoin-intro](https://bitcoin-intro.com/it/) |
-| Nederlands Dutch | [bitcoin-intro](https://bitcoin-intro.com/nl/) |   | [BTCrad](https://btcrad.io/nl/)
+| Nederlands Dutch | [bitcoin-intro](https://bitcoin-intro.com/nl/) |   | [BTCrad](https://btcrad.io/nl/) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/)
 | portugues Portuguese | [bitcoin-intro](bitcoin-intro) |
 | suomi Finnish | [bitcoin-intro](https://bitcoin-intro.com/fi/) |
 | Farsi  | [bitcoind.me](https://bitcoind.me/) |
