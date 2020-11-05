@@ -4,16 +4,16 @@ overview of decent bitcoin resources in many languages
 
 | language | intro | overview | [radio feed](https://btcrad.io/) | books | beginner podcast | 
 |----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | 
-| English  | [bitcoin-intro](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad](https://btcrad.io/en/)     |                |                  |                       
+| English  | [bitcoin-intro.com](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad](https://btcrad.io/en/)     |                |                  |                       
 | deutsch German  |                                                 |   | [BTCrad](https://btcrad.io/de/)  |  [aprycot](https://aprycot.media/shop/) |  [Bitcoin verstehen](https://anchor.fm/bitcoinverstehenpodcast)
-| espanol Spanish | [bitcoin-intro](https://bitcoin-intro.com/es/)  |   | [BTCrad](https://btcrad.io/es/)
-| francais French | [Decouvre Bitcoin](https://decouvrebitcoin.com/) |   | [BTCrad](https://btcrad.io/fr/)
-| italiano Italian | [bitcoin-intro](https://bitcoin-intro.com/it/) |
-| Nederlands Dutch | [bitcoin-intro](https://bitcoin-intro.com/nl/) |   | [BTCrad](https://btcrad.io/nl/) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/)
-| portugues Portuguese | [bitcoin-intro](bitcoin-intro) |
-| suomi Finnish | [bitcoin-intro](https://bitcoin-intro.com/fi/) |
+| espanol Spanish | [bitcoin-intro.com](https://bitcoin-intro.com/es/)  |   | [BTCrad](https://btcrad.io/es/)
+| francais French | [decouvrebitcoin.com](https://decouvrebitcoin.com/) |   | [BTCrad](https://btcrad.io/fr/)
+| italiano Italian | [bitcoin-intro.com](https://bitcoin-intro.com/it/) |
+| Nederlands Dutch | [bitcoin-intro.com](https://bitcoin-intro.com/nl/) |   | [BTCrad](https://btcrad.io/nl/) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/)
+| portugues Portuguese | [bitcoin-intro.com](bitcoin-intro) |
+| suomi Finnish | [bitcoin-intro.com](https://bitcoin-intro.com/fi/) |
 | فارسی Farsi  | [bitcoind.me](https://bitcoind.me/) |
-| العربية Arabic | [bitcoin-intro](https://bitcoin-intro.com/ar/) | 
+| العربية Arabic | [bitcoin-intro.com](https://bitcoin-intro.com/ar/) | 
 
 ## use case
 
