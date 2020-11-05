@@ -3,8 +3,8 @@
 overview of decent bitcoin resources in many languages
 
 | language | intro | overview | [radio feed](https://btcrad.io/) | beginner books | beginner podcast | twitter feeds |
-|----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | --------------------- | ------------------ |
-| English  | [bitcoin-intro](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad](https://btcrad.io/en/)     |                |                  |                       |                    |
+|----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | --------------------- | 
+| English  | [bitcoin-intro](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad](https://btcrad.io/en/)     |                |                  |                       
 | deutsch German  |                                                 |   | [BTCrad](https://btcrad.io/de/)  |   |  [Bitcoin verstehen](https://anchor.fm/bitcoinverstehenpodcast)
 | espanol Spanish | [bitcoin-intro](https://bitcoin-intro.com/es/)  |   | [BTCrad](https://btcrad.io/es/)
 | francais French |                                                 |   | [BTCrad](https://btcrad.io/fr/)
