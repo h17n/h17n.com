@@ -11,11 +11,11 @@ We're setting up this page with quality bitcoin only links in many languages to 
 |----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | ----- | ------ | 
 | English  | [bitcoin-intro.com](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad.io](https://btcrad.io/en)     |                |                  |                       |  [Bullish](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 | deutsch German  |                                                 |   | [BTCrad.io](https://btcrad.io/de)  |  [aprycot](https://aprycot.media/shop/) |  [Bitcoin verstehen](https://anchor.fm/bitcoinverstehenpodcast)  |   | [Bullish](https://medium.com/@danielschnurr089/das-bullische-argument-f%C3%BCr-bitcoin-9665e9375727)
-| espanol Spanish | [bitcoin-intro.com](https://bitcoin-intro.com/es/)  |   | [BTCrad.io](https://btcrad.io/es)  |  |  |  [Satoshi en Venezuela](https://www.youtube.com/c/SatoshienVenezuela) 
-| francais French | [decouvrebitcoin.com](https://decouvrebitcoin.com/) |   | [BTCrad.io](https://btcrad.io/fr) |   |  | [Découvre Bitcoin](https://www.youtube.com/channel/UCANjJ55UmYmoXm_SW--psXQ)
-| italiano Italian | [bitcoin-intro.com](https://bitcoin-intro.com/it/) |
+| espanol Spanish | [bitcoin-intro.com](https://bitcoin-intro.com/es/)  |   | [BTCrad.io](https://btcrad.io/es)  |  |  |  [Satoshi en Venezuela](https://www.youtube.com/c/SatoshienVenezuela)  | [Alcista](https://medium.com/@vijayb_24615/la-tesis-alcista-de-bitcoin-parte-1-de-4-7b2e7ac5f07)
+| francais French | [decouvrebitcoin.com](https://decouvrebitcoin.com/) |   | [BTCrad.io](https://btcrad.io/fr) |   |  | [Découvre Bitcoin](https://www.youtube.com/channel/UCANjJ55UmYmoXm_SW--psXQ) |  [Optimiste](https://medium.com/@gregguittard/un-sc%C3%A9nario-optimiste-pour-le-bitcoin-fdd8bc249e07)
+| italiano Italian | [bitcoin-intro.com](https://bitcoin-intro.com/it/) |   |      |    |   |  |  [Futuro](https://medium.com/@ryandelongpre/il-futuro-dei-soldi-bitcoin-dfddd5ef7308)
 | Nederlands Dutch | [bitcoin-intro.com](https://bitcoin-intro.com/nl/) |   | [BTCrad.io](https://btcrad.io/nl) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/) | [Beginnen met Bitcoin](https://www.youtube.com/channel/UCP0QPMEylGbthgRSvDkMy8Q/) | [Bullish](https://medium.com/@vijayb_24615/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1)
-| portugues Portuguese | [bitcoin-intro.com](bitcoin-intro) |
+| portugues Portuguese | [bitcoin-intro.com](bitcoin-intro) | | | | | [otimista](https://baraodobitcoin.com/o-cen%C3%A1rio-otimista-para-o-bitcoin-parte-1-de-4-785218913e0c)
 | suomi Finnish | [bitcoin-intro.com](https://bitcoin-intro.com/fi/) |   |  |   [konsensus.network](https://konsensus.network/fi/)
 | فارسی Farsi  | [bitcoind.me](https://bitcoind.me/) |    |  |  |  |  [Ziya Sadr](https://www.youtube.com/channel/UChJDoitU8BCdhxeAeFOQIHg/)
 | العربية Arabic | [bitcoin-intro.com](https://bitcoin-intro.com/ar/) | 
