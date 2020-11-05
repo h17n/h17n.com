@@ -15,6 +15,23 @@ overview of decent bitcoin resources in many languages
 | فارسی Farsi  | [bitcoind.me](https://bitcoind.me/) |
 | العربية Arabic | [bitcoin-intro.com](https://bitcoin-intro.com/ar/) | 
 
+### where to buy
+
+| countries           | exchange / language                               |  easy DCA  | payment methods    |
+| ------------------- | -----------|  ------------------------------------- | -----------| ------------------ |
+| EU, CH              | [StackinSat francais](https://stackinsat.com/)  | yes        |
+| NL, BE              | [Bitonic, Nederlands](https://bitonic.nl/nl/) [English](https://bitonic.nl/en/)     | no        | iDeal, Bancontact (currently no SEPA!) | 
+| CH, EU              | [Relai, francais](https://relai.ch/fr/) [deutsch](https://relai.ch/de/) [italiano](https://relai.ch/it/) [English](https://relai.ch/) |
+| United States       | [Swan Bitcon, English](https://www.swanbitcoin.com/)                             | yes       |
+| United States       | [River Financial, English](https://river.com/) | yes       |
+| Australia           | [Amber, English](https://amber.app/)            | yes       |
+| Canada              | [Bull Bitcoin, English](https://bullbitcoin.com/) | 
+| Nigeria             | [Bitnob, English](https://bitnob.com/) | yes
+
+
+None of these are selling shitcoin, with a preference to simplicity and DCA.
+
+
 ## use case
 
 You want to lead a friend or family into the rabbit hole but they are not comfortable with English, maybe they don't even speak English.
