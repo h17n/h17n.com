@@ -25,7 +25,7 @@ overview of decent bitcoin resources in many languages
 | NL, BE              | [Bitonic, Nederlands](https://bitonic.nl/nl/), [English](https://bitonic.nl/en/)     | no        | iDeal, Bancontact (currently no SEPA!) | 
 | EU                  | [BL3P English](https://bl3p.eu/)      | no        | SEPA | 
 | CH, EU              | [Relai, francais](https://relai.ch/fr/) [deutsch](https://relai.ch/de/) [italiano](https://relai.ch/it/) [English](https://relai.ch/) |
-| United States       | [Swan Bitcon, English](https://www.swanbitcoin.com/)                             | yes       |
+| United States       | [Swan Bitcoin, English](https://www.swanbitcoin.com/)                             | yes       |
 | United States       | [River Financial, English](https://river.com/) | yes       |
 | Australia           | [Amber, English](https://amber.app/)            | yes       |
 | Canada              | [Bull Bitcoin, English](https://bullbitcoin.com/) | 
