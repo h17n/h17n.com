@@ -7,14 +7,14 @@ Where do you send them?
 We're setting up this page with quality bitcoin only links in many languages to help with this.
 
 
-| language | intro | overview | [radio feed](https://btcrad.io/) | books | beginner podcast | youtube |
-|----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | ----- |
-| English  | [bitcoin-intro.com](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad.io](https://btcrad.io/en)     |                |                  |                       
-| deutsch German  |                                                 |   | [BTCrad.io](https://btcrad.io/de)  |  [aprycot](https://aprycot.media/shop/) |  [Bitcoin verstehen](https://anchor.fm/bitcoinverstehenpodcast) 
+| language | intro | overview | [radio feed](https://btcrad.io/) | books | beginner podcast | youtube | Bullish Case 
+|----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | ----- | ------ | 
+| English  | [bitcoin-intro.com](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad.io](https://btcrad.io/en)     |                |                  |                       |  | [Bullish](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
+| deutsch German  |                                                 |   | [BTCrad.io](https://btcrad.io/de)  |  [aprycot](https://aprycot.media/shop/) |  [Bitcoin verstehen](https://anchor.fm/bitcoinverstehenpodcast)  |   | [Bullish](https://medium.com/@danielschnurr089/das-bullische-argument-f%C3%BCr-bitcoin-9665e9375727)
 | espanol Spanish | [bitcoin-intro.com](https://bitcoin-intro.com/es/)  |   | [BTCrad.io](https://btcrad.io/es)  |  |  |  [Satoshi en Venezuela](https://www.youtube.com/c/SatoshienVenezuela) 
 | francais French | [decouvrebitcoin.com](https://decouvrebitcoin.com/) |   | [BTCrad.io](https://btcrad.io/fr) |   |  | [Découvre Bitcoin](https://www.youtube.com/channel/UCANjJ55UmYmoXm_SW--psXQ)
 | italiano Italian | [bitcoin-intro.com](https://bitcoin-intro.com/it/) |
-| Nederlands Dutch | [bitcoin-intro.com](https://bitcoin-intro.com/nl/) |   | [BTCrad.io](https://btcrad.io/nl) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/) | [Beginnen met Bitcoin](https://www.youtube.com/channel/UCP0QPMEylGbthgRSvDkMy8Q/)
+| Nederlands Dutch | [bitcoin-intro.com](https://bitcoin-intro.com/nl/) |   | [BTCrad.io](https://btcrad.io/nl) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/) | [Beginnen met Bitcoin](https://www.youtube.com/channel/UCP0QPMEylGbthgRSvDkMy8Q/) | [Bullish](https://medium.com/@vijayb_24615/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1)
 | portugues Portuguese | [bitcoin-intro.com](bitcoin-intro) |
 | suomi Finnish | [bitcoin-intro.com](https://bitcoin-intro.com/fi/) |   |  |   [konsensus.network](https://konsensus.network/fi/)
 | فارسی Farsi  | [bitcoind.me](https://bitcoind.me/) |    |  |  |  |  [Ziya Sadr](https://www.youtube.com/channel/UChJDoitU8BCdhxeAeFOQIHg/)
