@@ -25,17 +25,17 @@ We're setting up this page with quality bitcoin only links in many languages to 
 "[Friends don't let friends buy shitcoins](https://twitter.com/bitcoin_al/status/1308057587053715456)"
 
 
-| countries           | exchange / language                         |  company launch year |  easy DCA  | payment methods    |
+| countries           | exchange / language                         |  launched |  easy DCA  | payment methods    |
 | ------------------- | --------------------------------------------|  ------------------------------------- | -----------| ------------------ |
-| EU, CH              | [StackinSat francais](https://stackinsat.com/)  | yes        |                   |
+| EU, CH              | [StackinSat francais](https://stackinsat.com/)  | 2019 | yes        |                   |
 | NL, BE              | [Bitonic, Nederlands](https://bitonic.nl/nl/), [English](https://bitonic.nl/en/) | 2012   | no        | iDeal, Bancontact (currently no SEPA!) | 
-| EU                  | [BL3P English](https://bl3p.eu/)      | no        | 2012 | SEPA | 
+| EU                  | [BL3P English](https://bl3p.eu/)      | 2012 | no         | SEPA | 
 | CH, EU              | [Relai, francais](https://relai.ch/fr/) [deutsch](https://relai.ch/de/) [italiano](https://relai.ch/it/) [English](https://relai.ch/) |
-| United States       | [Swan Bitcoin, English](https://www.swanbitcoin.com/)                             | yes       |
-| United States       | [River Financial, English](https://river.com/) | yes       |
-| Australia           | [Amber, English](https://amber.app/)      | yes       |
+| United States       | [Swan Bitcoin, English](https://www.swanbitcoin.com/)   |                          | yes       |
+| United States       | [River Financial, English](https://river.com/) |  |  yes       |
+| Australia           | [Amber, English](https://amber.app/)  |     | yes       |
 | Canada              | [Bull Bitcoin, English](https://bullbitcoin.com/) | 
-| Nigeria             | [Bitnob, English](https://bitnob.com/) | yes
+| Nigeria             | [Bitnob, English](https://bitnob.com/) | 2020? | yes
 
 None of these are selling shitcoin, with a preference to simplicity and DCA.
 
