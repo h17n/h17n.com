@@ -4,12 +4,12 @@ overview of decent bitcoin resources in many languages
 
 | language | intro | overview | [radio feed](https://btcrad.io/) | books | beginner podcast | 
 |----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | 
-| English  | [bitcoin-intro.com](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad](https://btcrad.io/en/)     |                |                  |                       
-| deutsch German  |                                                 |   | [BTCrad](https://btcrad.io/de/)  |  [aprycot](https://aprycot.media/shop/) |  [Bitcoin verstehen](https://anchor.fm/bitcoinverstehenpodcast)
-| espanol Spanish | [bitcoin-intro.com](https://bitcoin-intro.com/es/)  |   | [BTCrad](https://btcrad.io/es/)
-| francais French | [decouvrebitcoin.com](https://decouvrebitcoin.com/) |   | [BTCrad](https://btcrad.io/fr/)
+| English  | [bitcoin-intro.com](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad](https://btcrad.io/en)     |                |                  |                       
+| deutsch German  |                                                 |   | [BTCrad](https://btcrad.io/de)  |  [aprycot](https://aprycot.media/shop/) |  [Bitcoin verstehen](https://anchor.fm/bitcoinverstehenpodcast)
+| espanol Spanish | [bitcoin-intro.com](https://bitcoin-intro.com/es/)  |   | [BTCrad](https://btcrad.io/es)
+| francais French | [decouvrebitcoin.com](https://decouvrebitcoin.com/) |   | [BTCrad](https://btcrad.io/fr)
 | italiano Italian | [bitcoin-intro.com](https://bitcoin-intro.com/it/) |
-| Nederlands Dutch | [bitcoin-intro.com](https://bitcoin-intro.com/nl/) |   | [BTCrad](https://btcrad.io/nl/) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/)
+| Nederlands Dutch | [bitcoin-intro.com](https://bitcoin-intro.com/nl/) |   | [BTCrad](https://btcrad.io/nl) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/)
 | portugues Portuguese | [bitcoin-intro.com](bitcoin-intro) |
 | suomi Finnish | [bitcoin-intro.com](https://bitcoin-intro.com/fi/) |
 | فارسی Farsi  | [bitcoind.me](https://bitcoind.me/) |
@@ -22,7 +22,8 @@ overview of decent bitcoin resources in many languages
 | countries           | exchange / language                               |  easy DCA  | payment methods    |
 | ------------------- | -----------|  ------------------------------------- | -----------| ------------------ |
 | EU, CH              | [StackinSat francais](https://stackinsat.com/)  | yes        |
-| NL, BE              | [Bitonic, Nederlands](https://bitonic.nl/nl/) [English](https://bitonic.nl/en/)     | no        | iDeal, Bancontact (currently no SEPA!) | 
+| NL, BE              | [Bitonic, Nederlands](https://bitonic.nl/nl/), [English](https://bitonic.nl/en/)     | no        | iDeal, Bancontact (currently no SEPA!) | 
+| EU                  | [BL3P English](https://bl3p.eu/)      | no        | SEPA | 
 | CH, EU              | [Relai, francais](https://relai.ch/fr/) [deutsch](https://relai.ch/de/) [italiano](https://relai.ch/it/) [English](https://relai.ch/) |
 | United States       | [Swan Bitcon, English](https://www.swanbitcoin.com/)                             | yes       |
 | United States       | [River Financial, English](https://river.com/) | yes       |
