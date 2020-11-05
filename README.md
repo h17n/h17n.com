@@ -7,7 +7,7 @@ overview of decent bitcoin resources in many languages
 | English  | [bitcoin-intro](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad](https://btcrad.io/en/)     |                |                  |                       
 | deutsch German  |                                                 |   | [BTCrad](https://btcrad.io/de/)  |   |  [Bitcoin verstehen](https://anchor.fm/bitcoinverstehenpodcast)
 | espanol Spanish | [bitcoin-intro](https://bitcoin-intro.com/es/)  |   | [BTCrad](https://btcrad.io/es/)
-| francais French |                                                 |   | [BTCrad](https://btcrad.io/fr/)
+| francais French | [Decouvre Bitcoin](https://decouvrebitcoin.com/) |   | [BTCrad](https://btcrad.io/fr/)
 | italiano Italian | [bitcoin-intro](https://bitcoin-intro.com/it/) |
 | Nederlands Dutch | [bitcoin-intro](https://bitcoin-intro.com/nl/) |   | [BTCrad](https://btcrad.io/nl/) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/)
 | portugues Portuguese | [bitcoin-intro](bitcoin-intro) |
