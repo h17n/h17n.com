@@ -2,7 +2,7 @@
 
 overview of decent bitcoin resources in many languages
 
-| language | intro | good overview site | [radio feed](https://btcrad.io/) | beginner books | Bitcoin Standard | good beginner podcast | good twitter feeds |
+| language | intro | overview | [radio feed](https://btcrad.io/) | beginner books | Bitcoin Standard | beginner podcast | twitter feeds |
 |----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | --------------------- | ------------------ |
 | English  | [bitcoin-intro](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad](https://btcrad.io/en/)     |                |                  |                       |                    |
 | deutsch German  |          |   | [BTCrad](https://btcrad.io/de/)
@@ -14,4 +14,13 @@ overview of decent bitcoin resources in many languages
 | suomi Finnish | [bitcoin-intro](https://bitcoin-intro.com/fi/) |
 | Farsi  | [bitcoind.me](https://bitcoind.me/) |
 | Arabic | [bitcoin-intro](https://bitcoin-intro.com/ar/) | 
+
+
+### inspiration
+
+name: [i18n, L10n](https://en.wikipedia.org/wiki/Internationalization_and_localization#Naming), [d11n](https://twitter.com/DennisReimann)
+
+
+
+
 
