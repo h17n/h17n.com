@@ -12,8 +12,8 @@ overview of decent bitcoin resources in many languages
 | Nederlands Dutch | [bitcoin-intro](https://bitcoin-intro.com/nl/) |   | [BTCrad](https://btcrad.io/nl/) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/)
 | portugues Portuguese | [bitcoin-intro](bitcoin-intro) |
 | suomi Finnish | [bitcoin-intro](https://bitcoin-intro.com/fi/) |
-| Farsi  | [bitcoind.me](https://bitcoind.me/) |
-| Arabic | [bitcoin-intro](https://bitcoin-intro.com/ar/) | 
+| فارسی Farsi  | [bitcoind.me](https://bitcoind.me/) |
+| العربية Arabic | [bitcoin-intro](https://bitcoin-intro.com/ar/) | 
 
 ## use case
 
