@@ -30,7 +30,7 @@ We're setting up this page with quality bitcoin only links in many languages to 
 | EU, CH              | [StackinSat francais](https://stackinsat.com/)  | 2019 | yes        |                   |
 | NL, BE              | [Bitonic, Nederlands](https://bitonic.nl/nl/), [English](https://bitonic.nl/en/) | 2012   | no        | iDeal, Bancontact (currently no SEPA!) | 
 | EU                  | [BL3P English](https://bl3p.eu/)      | 2012 | no         | SEPA | 
-| CH, EU              | [Relai, francais](https://relai.ch/fr/) [deutsch](https://relai.ch/de/) [italiano](https://relai.ch/it/) [English](https://relai.ch/) |
+| CH, EU              | [Relai, francais](https://relai.ch/fr/) [deutsch](https://relai.ch/de/) [italiano](https://relai.ch/it/) [English](https://relai.ch/) | 2019 | yes
 | United States       | [Swan Bitcoin, English](https://www.swanbitcoin.com/)   |                          | yes       |
 | United States       | [River Financial, English](https://river.com/) |  |  yes       |
 | Australia           | [Amber, English](https://amber.app/)  |     | yes       |
@@ -38,7 +38,6 @@ We're setting up this page with quality bitcoin only links in many languages to 
 | Nigeria             | [Bitnob, English](https://bitnob.com/) | 2020? | yes
 
 None of these are selling shitcoin, with a preference to simplicity and DCA.
-
 
 [Hodl Hodl](https://www.hodlhodl.com/) and [Bisq](https://bisq.network/) are great but don't seem appropriate for beginners.
 
