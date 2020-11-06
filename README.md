@@ -23,7 +23,7 @@ We're setting up this page with quality bitcoin only links in many languages to 
 | isiZulu | [Exonumia.cc](https://exonumia.cc/zaf/zu/)
 | Sesotho | [Exonumia.cc](https://exonumia.cc/zaf/st/)
 | IsiNdebele | [Exonumia.cc](https://exonumia.cc/zaf/nr/explain-bitcoin-like-im-five/)
-| TshiVenda] | [Exonumia.cc](https://exonumia.cc/zaf/ve/explain-bitcoin-like-im-five/)
+| TshiVenda | [Exonumia.cc](https://exonumia.cc/zaf/ve/explain-bitcoin-like-im-five/)
 
 ### where to buy
 
