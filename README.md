@@ -19,6 +19,11 @@ We're setting up this page with quality bitcoin only links in many languages to 
 | suomi Finnish | [bitcoin-intro.com](https://bitcoin-intro.com/fi/) |   |  |   [konsensus.network](https://konsensus.network/fi/) |   |  | [Bullish](https://medium.com/@thlbr/bitcoinin-valoisa-tulevaisuus-osa-1-4a93ff843229)
 | فارسی Farsi  | [bitcoind.me](https://bitcoind.me/) |    |  |  |  |  [Ziya Sadr](https://www.youtube.com/channel/UChJDoitU8BCdhxeAeFOQIHg/)
 | العربية Arabic | [bitcoin-intro.com](https://bitcoin-intro.com/ar/) | 
+| Oshiwambo | [Exonumia.cc](https://exonumia.cc/nam/ng/)
+| isiZulu | [Exonumia.cc](https://exonumia.cc/zaf/zu/)
+| Sesotho | [Exonumia.cc](https://exonumia.cc/zaf/st/)
+| IsiNdebele | [Exonumia.cc](https://exonumia.cc/zaf/nr/explain-bitcoin-like-im-five/)
+| TshiVenda] | [Exonumia.cc](https://exonumia.cc/zaf/ve/explain-bitcoin-like-im-five/)
 
 ### where to buy
 
