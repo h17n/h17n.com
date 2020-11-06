@@ -40,6 +40,7 @@ We're setting up this page with quality bitcoin only links in many languages to 
 | United States       | [River Financial, English](https://river.com/) |  |  yes       |
 | Australia           | [Amber, English](https://amber.app/)  |     | yes       |
 | Canada              | [Bull Bitcoin, English](https://bullbitcoin.com/) | 
+| Namibia             | [Bitcoin Trade Namibia](https://bitcoin-namibia.trade/)
 | Nigeria             | [Bitnob, English](https://bitnob.com/) | 2020? | yes
 
 None of these are selling shitcoin, with a preference to simplicity and DCA.
