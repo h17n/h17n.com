@@ -7,7 +7,7 @@ Where do you send them?
 We're setting up this page with quality bitcoin only links in many languages to help with this.
 
 
-| language | intro | overview | [radio feed](https://btcrad.io/) | books | beginner podcast | youtube | Bullish Case 
+| language | intro | overview | [radio](https://btcrad.io/) | books | beginner podcast | youtube | Bullish Case 
 |----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | ----- | ------ | 
 | English  | [bitcoin-intro.com](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad.io](https://btcrad.io/en)     |                |                  |                       |  [Bullish](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 | deutsch German  |                                                 |   | [BTCrad.io](https://btcrad.io/de)  |  [aprycot](https://aprycot.media/shop/) |  [Bitcoin verstehen](https://anchor.fm/bitcoinverstehenpodcast)  |   | [Bullish](https://medium.com/@danielschnurr089/das-bullische-argument-f%C3%BCr-bitcoin-9665e9375727)
@@ -17,8 +17,12 @@ We're setting up this page with quality bitcoin only links in many languages to 
 | Nederlands Dutch | [bitcoin-intro.com](https://bitcoin-intro.com/nl/) |   | [BTCrad.io](https://btcrad.io/nl) |    |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/) | [Beginnen met Bitcoin](https://www.youtube.com/channel/UCP0QPMEylGbthgRSvDkMy8Q/) | [Bullish](https://medium.com/@vijayb_24615/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1)
 | portugues Portuguese | [bitcoin-intro.com](bitcoin-intro) | | | | | | [otimista](https://baraodobitcoin.com/o-cen%C3%A1rio-otimista-para-o-bitcoin-parte-1-de-4-785218913e0c)
 | suomi Finnish | [bitcoin-intro.com](https://bitcoin-intro.com/fi/) |   |  |   [konsensus.network](https://konsensus.network/fi/) |   |  | [Bullish](https://medium.com/@thlbr/bitcoinin-valoisa-tulevaisuus-osa-1-4a93ff843229)
+| 
 | فارسی Farsi  | [bitcoind.me](https://bitcoind.me/) |    |  |  |  |  [Ziya Sadr](https://www.youtube.com/channel/UChJDoitU8BCdhxeAeFOQIHg/)
 | العربية Arabic | [bitcoin-intro.com](https://bitcoin-intro.com/ar/) | 
+| Ελληνικά Greek |
+| 简体字 Simplified Chinese |  |  |  |  |  [比特币看涨论](https://medium.com/@sunflora98/%E6%AF%94%E7%89%B9%E5%B8%81%E7%9C%8B%E6%B6%A8%E8%AE%BA-%E4%B8%80-1e8845bfbdec)
+| 繁體字 Traditional Chinese |  | |  |  |  [比特幣看漲論](https://medium.com/@sunflora98/%E6%AF%94%E7%89%B9%E5%B9%A3%E7%9C%8B%E6%BC%B2%E8%AB%96-%E4%B8%80-33d753d60fa0)
 | Oshiwambo | [Exonumia.cc](https://exonumia.cc/nam/ng/)
 | isiZulu | [Exonumia.cc](https://exonumia.cc/zaf/zu/)
 | Sesotho | [Exonumia.cc](https://exonumia.cc/zaf/st/)
