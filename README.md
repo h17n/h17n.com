@@ -50,6 +50,26 @@ None of these are selling shitcoins, with a preference to simplicity and DCA.
 
 [Hodl Hodl](https://www.hodlhodl.com/) and [Bisq](https://bisq.network/) are great but don't seem appropriate for beginners.
 
+## Wallets
+
+Any wallets with i18n?
+
+### only in English but still recommended
+
+#### software wallets
+
+- [Blockstream Green](https://blockstream.com/green/), iOS, Android, desktop
+- [Blue Wallet](https://bluewallet.io/), iOS, Android
+- [Wassabi wallet](https://www.wasabiwallet.io/), desktop, with coinjoin
+
+#### hardware wallets
+
+- Trezor
+- ColdCard
+
+todo: tables, add more
+
+
 ## add more
 
 Only bitcoin only links.
