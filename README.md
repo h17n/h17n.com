@@ -21,6 +21,13 @@ We're setting up this page with quality bitcoin only links in many languages to 
 | العربية Arabic | [bitcoin-intro.com](https://bitcoin-intro.com/ar/) | 
 | 简体字 Simplified Chinese |  |  |  |  | | | [比特币看涨论](https://medium.com/@sunflora98/%E6%AF%94%E7%89%B9%E5%B8%81%E7%9C%8B%E6%B6%A8%E8%AE%BA-%E4%B8%80-1e8845bfbdec)
 | 繁體字 Traditional Chinese |  | |  |  |  | | [比特幣看漲論](https://medium.com/@sunflora98/%E6%AF%94%E7%89%B9%E5%B9%A3%E7%9C%8B%E6%BC%B2%E8%AB%96-%E4%B8%80-33d753d60fa0)
+| Korean |  | |  |  |  | | [비트코인에](https://medium.com/@hyungjoh/https-medium-com-hyungjoh-the-bullish-case-for-bitcoin-part-1-of-4-korean-7e454dc539bc)
+| Vietnamese |  | |  |  |  | | [Bullish](https://medium.com/@hophuocbaochi/c%C3%A1c-lu%E1%BA%ADn-%C4%91i%E1%BB%83m-cho-kh%E1%BA%A3-n%C4%83ng-l%C3%AAn-gi%C3%A1-c%E1%BB%A7a-bitcoin-17a9f4a4f8c)
+| Tamil |  | |  |  |  | | [Bullish](https://medium.com/@vijayboyapati/%E0%AE%8F%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AF%8D-%E0%AE%95%E0%AE%BE%E0%AE%A3%E0%AF%81%E0%AE%AE%E0%AF%8D-%E0%AE%AA%E0%AE%BF%E0%AE%9F%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%AF%E0%AE%BF%E0%AE%A9%E0%AF%8D-%E0%AE%B5%E0%AE%BF%E0%AE%B5%E0%AE%95%E0%AE%BE%E0%AE%B0%E0%AE%AE%E0%AF%8D-%E0%AE%AE%E0%AF%81%E0%AE%A4%E0%AE%B2%E0%AF%8D-%E0%AE%AA%E0%AE%95%E0%AF%81%E0%AE%A4%E0%AE%BF-ad7c340f4962)
+| русский Russian |  | |  |  |  | | [Bullish](https://coinspot.io/analysis/pochemu-bitcoin-vzletit-chast-1-genezis-i-priroda-deneg/)
+| Bulgarian |  | |  |  |  | | [Bullish](https://hash.bg/%D0%B7%D0%B0%D1%89%D0%BE-%D0%B1%D0%B8%D1%82%D0%BA%D0%BE%D0%B9%D0%BD-%D1%89%D0%B5-%D1%83%D1%81%D0%BF%D0%B5%D0%B5-%D1%87%D0%B0%D1%81%D1%82-1/)
+| Polski |  | |  |  |  | | [Bullish](https://panel.ligabtc.pl/bullish_case_pl.php)
+| Catalan |  | |  |  |  | | [Bullish](https://www.traductor-jurado.org/blog/traduccion-inversion-bitcoin/)
 | Oshiwambo | [Exonumia.cc](https://exonumia.cc/nam/ng/)
 | isiZulu | [Exonumia.cc](https://exonumia.cc/zaf/zu/)
 | Sesotho | [Exonumia.cc](https://exonumia.cc/zaf/st/)
