@@ -76,6 +76,11 @@ Any wallets with i18n?
 
 todo: tables, add more
 
+### help translate bitcoin only projects
+
+- [mempool.space translations](https://www.transifex.com/mempool/mempool/)
+
+
 
 ## add more
 
