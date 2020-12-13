@@ -17,6 +17,7 @@ We're setting up this page with quality bitcoin only links in many languages to 
 | Nederlands Dutch | [bitcoin-intro.com](https://bitcoin-intro.com/nl/) |   | [BTCrad.io](https://btcrad.io/nl) |  [Konsensus Network](https://konsensus.network/product-category/books/dutch/)  |  [Beginnen met Bitcoin](https://beginnenmetbitcoin.com/) | [Beginnen met Bitcoin](https://www.youtube.com/channel/UCP0QPMEylGbthgRSvDkMy8Q/) | [Bullish](https://medium.com/@vijayb_24615/het-bullish-argument-voor-bitcoin-deel-1-c589d15083c1)
 | portugues Portuguese | [bitcoin-intro.com](bitcoin-intro) | | | [Konsensus Network](https://konsensus.network/product-category/books/portuguese/) | | | [otimista](https://baraodobitcoin.com/o-cen%C3%A1rio-otimista-para-o-bitcoin-parte-1-de-4-785218913e0c)
 | suomi Finnish | [bitcoin-intro.com](https://bitcoin-intro.com/fi/) |   |  |   [Konsensus Network](https://konsensus.network/fi/) |   |  | [Bullish](https://medium.com/@thlbr/bitcoinin-valoisa-tulevaisuus-osa-1-4a93ff843229)
+| svenska Swedish |    |   |  |   [Konsensus Network](https://konsensus.network/product/lilla-boken-om-bitcoin/) |   |  | 
 | فارسی Farsi  | [bitcoind.me](https://bitcoind.me/) |    |  |  |  |  [Ziya Sadr](https://www.youtube.com/channel/UChJDoitU8BCdhxeAeFOQIHg/)
 | العربية Arabic | [bitcoin-intro.com](https://bitcoin-intro.com/ar/) | 
 | 简体字 Simplified Chinese |  |  |  |  | | | [比特币看涨论](https://medium.com/@sunflora98/%E6%AF%94%E7%89%B9%E5%B8%81%E7%9C%8B%E6%B6%A8%E8%AE%BA-%E4%B8%80-1e8845bfbdec)
@@ -33,7 +34,7 @@ We're setting up this page with quality bitcoin only links in many languages to 
 | Sesotho | [Exonumia.cc](https://exonumia.cc/zaf/st/)
 | IsiNdebele | [Exonumia.cc](https://exonumia.cc/zaf/nr/explain-bitcoin-like-im-five/)
 | TshiVenda | [Exonumia.cc](https://exonumia.cc/zaf/ve/explain-bitcoin-like-im-five/)
-| Ελληνικά Greek |
+
 
 ### where to buy
 
