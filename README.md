@@ -60,27 +60,31 @@ None of these are selling shitcoins, with a preference to simplicity and DCA.
 
 ## Wallets
 
-Any wallets with i18n?
+### software wallets
 
-### only in English but still recommended
+| wallet                                              | languages | platforms              | features
+|-----------------------------------------------------|-----------|------------------------|-------------------------------
+| [BlueWallet](https://bluewallet.io/)                | many      | iOS, Android           | multisig, coin control
+| [Blockstream Green](https://blockstream.com/green/) | many      | iOS, Android, desktop  |
+| [Samourai Wallet](https://samouraiwallet.com/)      | many      | Android                | coinjoin
+| [Wasabi Wallet](https://www.wasabiwallet.io/)       | English   | desktop                | coinjoin
 
-#### software wallets
-
-- [Blockstream Green](https://blockstream.com/green/), iOS, Android, desktop
-- [Blue Wallet](https://bluewallet.io/), iOS, Android
-- [Wassabi wallet](https://www.wasabiwallet.io/), desktop, with coinjoin
 
 #### hardware wallets
 
 - Trezor
 - ColdCard
+- [Cobo](https://cobo.com/)
+- [Bitbox02](https://shiftcrypto.ch/)
 
 todo: tables, add more
 
 ### help translate bitcoin only projects
 
 - [mempool.space translations](https://www.transifex.com/mempool/mempool/)
-- [Bluewallet](https://www.transifex.com/bluewallet/bluewallet/)
+- [BlueWallet](https://www.transifex.com/bluewallet/bluewallet/)
+- [Blockstream Green](https://www.transifex.com/blockstream/blockstream-green/)
+- [Samourai](https://support.samourai.io/article/72-contribute-a-translation-to-samourai-wallet)
 
 
 ## add more
