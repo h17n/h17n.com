@@ -80,7 +80,7 @@ todo: tables, add more
 ### help translate bitcoin only projects
 
 - [mempool.space translations](https://www.transifex.com/mempool/mempool/)
-
+- [Bluewallet](https://www.transifex.com/bluewallet/bluewallet/)
 
 
 ## add more
