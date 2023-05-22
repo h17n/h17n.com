@@ -9,6 +9,7 @@ We're setting up this page with quality bitcoin only links in many languages to 
 
 | language | intro | overview | [radio](https://btcrad.io/) | books | beginner podcast | youtube | Bullish Case 
 |----------|-------|--------------------|--------------------------------- | -------------- | ---------------- | ----- | ------ | 
+| English  | [Athena Alpha - Bitcoin Education](https://www.athena-alpha.com/) |                |                |                |                  |                       |                
 | English  | [bitcoin-intro.com](https://bitcoin-intro.com/) | [bitcoin-only](https://bitcoin-only.com/) | [BTCrad.io](https://btcrad.io/en)     |                |                  |                       |  [Bullish](https://medium.com/@vijayboyapati/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 | [deutsch](/de.html) German  |                                                 |   | [BTCrad.io](https://btcrad.io/de)  |  [aprycot](https://aprycot.media/shop/) |  [Bitcoin verstehen](https://anchor.fm/bitcoinverstehenpodcast)  |   | [Bullish](https://medium.com/@danielschnurr089/das-bullische-argument-f%C3%BCr-bitcoin-9665e9375727) | 
 | espanol Spanish | [bitcoin-intro.com](https://bitcoin-intro.com/es/)  |   | [BTCrad.io](https://btcrad.io/es)  |  |  |  [Satoshi en Venezuela](https://www.youtube.com/c/SatoshienVenezuela)  | [Alcista](https://medium.com/@vijayb_24615/la-tesis-alcista-de-bitcoin-parte-1-de-4-7b2e7ac5f07)
